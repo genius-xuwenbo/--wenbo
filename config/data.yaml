@@ -1,0 +1,35 @@
+
+#hero: {name: "安其拉",word: "火焰是我最喜欢的玩具",Hp: "445.2"}
+hero:
+  - name: 安其拉
+  - word: 火焰是我最喜欢的玩具
+  - Hp: 445.2
+
+#heroes_name: ['安其拉','黄忠','小乔']
+heroes_name:
+  - 安其拉
+  - 黄忠
+  - 小乔
+
+#heroes: { name: "黄总",word: "周日被我射熄火了",Hp: "440"}
+heroes:
+  - name: 黄忠
+    word: 周日被我射熄火了
+    Hp: 440
+
+#heroes_name_list: [['安其拉','黄忠','小乔']]
+heroes_name_list:
+  - - 安其拉
+    - 黄忠
+    - 小乔
+
+shopping_cart: { goods: 6, nums: 1}
+
+test:
+  url: '/code/'
+  json:
+    mobile: 150000000000
+
+mobile_params:
+  #shouji
+  - [13456755448,0c818521d38759e1]
