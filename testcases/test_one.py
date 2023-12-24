@@ -9,7 +9,7 @@ def test_two():
     actual = 2
     assert expect == actual
 
-# def three():
-#     expect = 1
-#     actual = 1
-#     assert expect == actual
+def three():
+    expect = 1
+    actual = 1
+    assert expect == actual
